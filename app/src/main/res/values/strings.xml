@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Red Cabbage</string>
+    <string name="about_cabbage">Its leaves are colored dark red/purple. However, the plant changes its color according to the pH value of the soil.</string>
+    <string name="price_details">1 Pc (approx. 400g to 600g) - ₹ 202.50</string>
+</resources>
